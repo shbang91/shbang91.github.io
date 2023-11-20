@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/shbang91"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-graduation-cap"
+      icon: "fas fa-user-graduate"
       url: "https://scholar.google.com/citations?user=b9_rO1sAAAAJ&hl=en"
 
 # Site Footer
