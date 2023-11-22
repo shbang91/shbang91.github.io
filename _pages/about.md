@@ -1,5 +1,9 @@
 ---
 permalink: /about/
+author_profile: true
+layout: single
 ---
 
-I am a PhD Candidate in the Human Centered Robotics Lab at the University of Texas at Austin advised by Professor [Luis Sentis](https://www.ae.utexas.edu/people/faculty/faculty-directory/sentis).
+I am a PhD Candidate in the Human Centered Robotics Lab at the University of Texas at Austin, advised by Professor [Luis Sentis](https://www.ae.utexas.edu/people/faculty/faculty-directory/sentis).
+My research interest lies broadly in the whole-body motion planning and control algorithms for deployable and versatile humanoid robots. 
+I strongly believe that robust and efficient reactive and predictive whole-body control would enable human-level autonomy and agility for humanoid robots.
