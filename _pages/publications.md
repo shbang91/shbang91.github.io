@@ -9,20 +9,20 @@ title: Publications
 Journals
 --------------------------------------------------------------
 - **SH. Bang**, C. Gonzalez, J. Ahn, N. Paine, and L. Sentis, “[Control and Evaluation of a Humanoid Robot with
-Rolling Contact Joints on its Lower Body](https://www.frontiersin.org/articles/10.3389/frobt.2023.1164660/full),” Frontiers in Robotics and AI, 2023 [Accompanying Video]() 
+Rolling Contact Joints on its Lower Body](https://www.frontiersin.org/articles/10.3389/frobt.2023.1164660/full),” Frontiers in Robotics and AI, 2023 [Accompanying Video](https://youtu.be/9qVQzY0fic8) 
 
 - J. Lee, J. Ahn, D. Kim, **SH. Bang**, and L. Sentis, “[Online gain adaptation of whole-body control for legged
 robots with unknown disturbances](https://www.frontiersin.org/articles/10.3389/frobt.2021.788902/full),” Frontiers in Robotics and AI, vol. 8, 2022.
 
 - J. Ahn, S. J. Jorgensen, **SH. Bang**, and L. Sentis, “[Versatile locomotion planning and control for humanoid
-robots](https://www.frontiersin.org/articles/10.3389/frobt.2021.712239/full),” Frontiers in Robotics and AI, vol. 8, 2021. [Accompanying Video]()
+robots](https://www.frontiersin.org/articles/10.3389/frobt.2021.712239/full),” Frontiers in Robotics and AI, vol. 8, 2021. [Accompanying Video](https://www.youtube.com/watch?v=zRk9ja799mM)
 
 
 Conferences
 --------------------------------------------------------------
 - L. Rossini, E. Hoffman, **SH. Bang**, L. Sentis, and N. Tsagarakis, “[A Real-Time Approach for Humanoid Robot Walking including Dynamic Obstacles Avoidance](),” 2023 IEEE-RAS 23th International Conference on Humanoid Robots (Humanoids), 2023 (to appear)
 
-- M. Seo, S. Han, K. Sim, **SH. Bang**, C. Gonzalez, L. Sentis, and Y. Zhu, “[Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](),” 2023 IEEE-RAS 23th International Conference on Humanoid Robots (Humanoids), 2023 [Accompanying Video]()
+- M. Seo, S. Han, K. Sim, **SH. Bang**, C. Gonzalez, L. Sentis, and Y. Zhu, “[Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](),” 2023 IEEE-RAS 23th International Conference on Humanoid Robots (Humanoids), 2023 [Accompanying Video](https://www.youtube.com/watch?v=nz23WyW4fWs)
 
 - C. Gonzales, **SH. Bang**, P. Li, S. Chinchali, and L. Sentis, “[Learning Adaptive Horizon Maps Based on Error
 Forecast for Model Predictive Control]()”, 2023 IEEE Conference on Decision and Control, 2023 (to appear)
@@ -36,7 +36,7 @@ Decision and Control (CDC) 2020
 
 - J. Ahn, D. Kim, **SH. Bang**, N. Paine, and L. Sentis, “[Control of a high performance bipedal robot using
 viscoelastic liquid cooled actuators](https://ieeexplore.ieee.org/abstract/document/9035023),” in 2019 IEEE-RAS 19th International Conference on Humanoid Robots
-(Humanoids), 2019, pp. 146–153. [Accompanying Video]()
+(Humanoids), 2019, pp. 146–153. [Accompanying Video](https://www.youtube.com/watch?v=GqU_If892Vw)
 
 
 Master's Thesis
