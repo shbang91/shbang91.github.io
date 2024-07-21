@@ -4,5 +4,7 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
+  - title: "Videos"
+    url: /videos/
   - title: "CV"
     url: /assets/images/CV_SeungHyeon_Bang.pdf
