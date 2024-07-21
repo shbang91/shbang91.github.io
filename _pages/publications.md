@@ -20,12 +20,12 @@ robots](https://www.frontiersin.org/articles/10.3389/frobt.2021.712239/full),”
 
 Conferences
 --------------------------------------------------------------
-- L. Rossini, E. Hoffman, **SH. Bang**, L. Sentis, and N. Tsagarakis, “[A Real-Time Approach for Humanoid Robot Walking including Dynamic Obstacles Avoidance](),” 2023 IEEE-RAS 23th International Conference on Humanoid Robots (Humanoids), 2023 (to appear)
+- L. Rossini, E. Hoffman, **SH. Bang**, L. Sentis, and N. Tsagarakis, “[A Real-Time Approach for Humanoid Robot Walking including Dynamic Obstacles Avoidance](),” 2023 IEEE-RAS 23th International Conference on Humanoid Robots (Humanoids), 2023
 
 - M. Seo, S. Han, K. Sim, **SH. Bang**, C. Gonzalez, L. Sentis, and Y. Zhu, “[Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](),” 2023 IEEE-RAS 23th International Conference on Humanoid Robots (Humanoids), 2023 [Accompanying Video](https://www.youtube.com/watch?v=nz23WyW4fWs)
 
 - C. Gonzales, **SH. Bang**, P. Li, S. Chinchali, and L. Sentis, “[Learning Adaptive Horizon Maps Based on Error
-Forecast for Model Predictive Control]()”, 2023 IEEE Conference on Decision and Control, 2023 (to appear)
+Forecast for Model Predictive Control]()”, 2023 IEEE Conference on Decision and Control, 2023
 
 - J. Ahn, **SH. Bang**, C. Gonzalez, Y. Yuan, and L. Sentis, “[Data-driven safety verification for legged robots](https://ieeexplore.ieee.org/abstract/document/10000221),”
 2022 IEEE-RAS 22th International Conference on Humanoid Robots (Humanoids), 2022
