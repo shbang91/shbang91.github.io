@@ -6,6 +6,11 @@ classes: wide
 title: Publications
 ---
 
+Under Review
+--------------------------------------------------------------
+- **SH. Bang**, C. Jové , and L. Sentis, “[RL-augmented MPC Framework for Agile and Robust Bipedal Footstep Locomotion Planning and Control]().
+- **SH. Bang**, J. Lee, C. Gonzalez, and L. Sentis, “[Variable Inertia Model Predictive Control for Fast Bipedal Maneuvers]().
+
 Journals
 --------------------------------------------------------------
 - **SH. Bang**, C. Gonzalez, J. Ahn, N. Paine, and L. Sentis, “[Control and Evaluation of a Humanoid Robot with
