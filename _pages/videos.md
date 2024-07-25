@@ -25,14 +25,14 @@ title: Videos
 </div>
 
 - Variable Inertia MPC for Fast Bipedal Maneuvers
-    - To be updated
+    - **(To be updated soon)**
 
 - Trajectory Optimization for Vesatile Locomotion Planning and Control for Humanoid Robots
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/zRk9ja799mM" frameborder="0" allowfullscreen></iframe>
 </div>
 
-- Human-Robot Interaction via Cognitive and Human Language
+- Human-Robot Interaction via Cognitive Systems and Human Natural Language Dialouges
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/GjdQ5otZLDY" frameborder="0" allowfullscreen></iframe>
 </div>
