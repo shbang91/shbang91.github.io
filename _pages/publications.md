@@ -23,11 +23,11 @@ Conferences
 --------------------------------------------------------------
 - **SH. Bang**, J. Lee, C. Gonzalez, and L. Sentis, “[Variable Inertia Model Predictive Control for Fast Bipedal Maneuvers](https://arxiv.org/abs/2407.16811),"" IEEE International Conference on Decision and Control (CDC) 2024 (**To appear**)
 
-- L. Rossini, E. Hoffman, **SH. Bang**, L. Sentis, and N. Tsagarakis, “[A Real-Time Approach for Humanoid Robot Walking including Dynamic Obstacles Avoidance](https://ieeexplore.ieee.org/abstract/document/10375191),” IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2023
+- L. Rossini, E. Hoffman, **SH. Bang**, L. Sentis, and N. Tsagarakis, “[A Real-Time Approach for Humanoid Robot Walking including Dynamic Obstacles Avoidance](https://ieeexplore.ieee.org/abstract/document/10375191),” IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2023
 
-- M. Seo, S. Han, K. Sim, **SH. Bang**, C. Gonzalez, L. Sentis, and Y. Zhu, “[Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](https://ieeexplore.ieee.org/abstract/document/10375203),” IEEE-RAS International Conference on Humanoid Robots (Humanoids), 2023 [Accompanying Video](https://www.youtube.com/watch?v=nz23WyW4fWs)
+- M. Seo, S. Han, K. Sim, **SH. Bang**, C. Gonzalez, L. Sentis, and Y. Zhu, “[Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](https://ieeexplore.ieee.org/abstract/document/10375203),” IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2023 [Accompanying Video](https://www.youtube.com/watch?v=nz23WyW4fWs)
 
-- C. Gonzales, **SH. Bang**, P. Li, S. Chinchali, and L. Sentis, “[Learning Adaptive Horizon Maps Based on Error Forecast for Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/10384131)”, 2023 IEEE Conference on Decision and Control (CDC) 2023
+- C. Gonzales, **SH. Bang**, P. Li, S. Chinchali, and L. Sentis, “[Learning Adaptive Horizon Maps Based on Error Forecast for Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/10384131)”, IEEE International Conference on Decision and Control (CDC) 2023
 
 - J. Ahn, **SH. Bang**, C. Gonzalez, Y. Yuan, and L. Sentis, “[Data-driven safety verification for legged robots](https://ieeexplore.ieee.org/abstract/document/10000221),” IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2022
 
