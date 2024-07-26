@@ -8,7 +8,7 @@ title: Publications
 
 Under Review
 --------------------------------------------------------------
-- **SH. Bang**, C. Jové , and L. Sentis, “[RL-augmented MPC Framework for Agile and Robust Bipedal Footstep Locomotion Planning and Control]().
+- **SH. Bang**, C. Jové , and L. Sentis, “[RL-augmented MPC Framework for Agile and Robust Bipedal Footstep Locomotion Planning and Control](https://arxiv.org/abs/2407.17683).
 
 Journals
 --------------------------------------------------------------
