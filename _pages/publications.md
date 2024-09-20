@@ -8,7 +8,7 @@ title: Publications
 
 Under Review
 --------------------------------------------------------------
-- **SH. Bang**, C. Gonzalez, G. Moore, DH. Kang, M. Seo, and L. Sentis, “[RPC: A Modular Framework for Robot Planning, Control, and Deployment](),"
+- **SH. Bang**, C. Gonzalez, G. Moore, DH. Kang, M. Seo, and L. Sentis, “[RPC: A Modular Framework for Robot Planning, Control, and Deployment](https://arxiv.org/abs/2409.10015),"
 
 Journals
 --------------------------------------------------------------
