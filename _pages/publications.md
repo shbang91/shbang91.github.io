@@ -8,7 +8,6 @@ title: Publications
 
 Under Review
 --------------------------------------------------------------
-- **SH. Bang**, C. Gonzalez, G. Moore, DH. Kang, M. Seo, and L. Sentis, “[RPC: A Modular Framework for Robot Planning, Control, and Deployment](https://arxiv.org/abs/2409.10015),"
 
 Journals
 --------------------------------------------------------------
@@ -21,6 +20,8 @@ Journals
 
 Conferences
 --------------------------------------------------------------
+- **SH. Bang**, C. Gonzalez, G. Moore, DH. Kang, M. Seo, and L. Sentis, “[RPC: A Modular Framework for Robot Planning, Control, and Deployment](https://arxiv.org/abs/2409.10015)," IEEE International Symposium on System Integration (SII) 2025 (**To appear**)
+
 - **SH. Bang**, C. Jové, and L. Sentis, “[RL-augmented MPC Framework for Agile and Robust Bipedal Footstep Locomotion Planning and Control](https://arxiv.org/abs/2407.17683)," IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2024 (**To appear**)
 
 - **SH. Bang**, J. Lee, C. Gonzalez, and L. Sentis, “[Variable Inertia Model Predictive Control for Fast Bipedal Maneuvers](https://arxiv.org/abs/2407.16811),"" IEEE Conference on Decision and Control (CDC) 2024 (**To appear**)
