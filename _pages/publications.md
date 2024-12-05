@@ -28,7 +28,7 @@ Conferences
 
 - L. Rossini, E. Hoffman, **SH. Bang**, L. Sentis, and N. Tsagarakis, “[A Real-Time Approach for Humanoid Robot Walking including Dynamic Obstacles Avoidance](https://ieeexplore.ieee.org/abstract/document/10375191),” IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2023
 
-- M. Seo, S. Han, K. Sim, **SH. Bang**, C. Gonzalez, L. Sentis, and Y. Zhu, “[Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](https://ieeexplore.ieee.org/abstract/document/10375203),” IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2023 [Accompanying Video](https://www.youtube.com/watch?v=nz23WyW4fWs)
+- M. Seo, S. Han, K. Sim, **SH. Bang**, C. Gonzalez, L. Sentis, and Y. Zhu, “[Deep Imitation Learning for Humanoid Loco-manipulation through Human Teleoperation](https://ieeexplore.ieee.org/abstract/document/10375203),” IEEE-RAS International Conference on Humanoid Robots (Humanoids) 2023 (**Best Whole-body Control Paper Finalist**) [Accompanying Video](https://www.youtube.com/watch?v=nz23WyW4fWs)
 
 - C. Gonzales, **SH. Bang**, P. Li, S. Chinchali, and L. Sentis, “[Learning Adaptive Horizon Maps Based on Error Forecast for Model Predictive Control](https://ieeexplore.ieee.org/abstract/document/10384131)”, IEEE Conference on Decision and Control (CDC) 2023
 
