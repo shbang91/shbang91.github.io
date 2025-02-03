@@ -106,6 +106,7 @@ analytics:
 author:
   name             : "Seung Hyeon Bang"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar_width: 150px
   bio              : "Software Engineer in Robotics at Apptronik"
   location         : "Austin, TX"
   email            :
