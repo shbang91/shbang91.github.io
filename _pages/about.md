@@ -6,7 +6,7 @@ classes: wide
 title: About
 ---
 
-I am Software Engineer in Robotics at Apptronik. I received my PhD in Aerospace Engineering from the University of Texas at Austin as part of the Human Centered Robotics Lab, advised by Professor [Luis Sentis](https://www.ae.utexas.edu/people/faculty/faculty-directory/sentis).
+I am a Software Engineer in Robotics at Apptronik. I received my PhD in Aerospace Engineering from the University of Texas at Austin as part of the Human Centered Robotics Lab, advised by Professor [Luis Sentis](https://www.ae.utexas.edu/people/faculty/faculty-directory/sentis).
 My research interest lies broadly in the whole-body motion planning and control algorithms for deployable and versatile humanoid robots. 
 I strongly believe that robust and efficient reactive and predictive whole-body control would enable human-level autonomy and agility for humanoid robots.
 
